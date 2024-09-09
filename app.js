@@ -82,4 +82,11 @@ function grades(score){
 console.log(grades(70))
 
 
+let a ;
+if(0){
+    console.log("Truthy")
+}
+else{
+    console.log("false")
+}
 
